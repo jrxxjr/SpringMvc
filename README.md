@@ -14,14 +14,14 @@ http://localhost:8080/spring/
 
 
 English:
-# Example of using the Spring MVC module
+# Example of using the Spring MVC module  
 
-Example of a Java Web Application using the Spring Framework MVC module
+Example of a Java Web Application using the Spring Framework MVC module  
 
-1 - An Eclipse Maven project was created, just import a Maven project into Eclipse.
-2 - The application must be run in the test case on Tomcat 7.
-3 - Run the Maven clean and then install commands.
-4 - Then you will use the Tomcat plugin for Maven with the commands
-tomcat7:deploy and then with each new deploy tomcat7:redeploy.
-5 - In the browser, the url to be called is:  
-http://localhost:8080/spring/  
+1 - An Eclipse Maven project was created, just import a Maven project into Eclipse.  
+2 - The application must be run in the test case on Tomcat 7.  
+3 - Run the Maven clean and then install commands.  
+4 - Then you will use the Tomcat plugin for Maven with the commands  
+tomcat7:deploy and then with each new deploy tomcat7:redeploy.  
+5 - In the browser, the url to be called is:    
+http://localhost:8080/spring/    
