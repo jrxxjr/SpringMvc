@@ -10,9 +10,7 @@ Exemplo de Aplicação Java Web usando o módulo MVC do Spring Framework
 tomcat7:deploy e depois a cada novo deploy tomcat7:redeploy.      
 5 - No browser a url a ser chamada é a:    
 http://localhost:8080/spring/  
-
-
-
+___________________________________________________________________________________________________________
 English:
 # Example of using the Spring MVC module  
 
